@@ -5,7 +5,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Yash+Prashant+Mahajan;A+Computer+Science+Graduate+Student;Welcome+to+my+Github+Profile!" alt="Typing SVG" /></h1>
 
 <!-- About Me -->
-## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+## About Me
 I’m a Master’s student in Game Design and Development at RIT. I am an aspiring Game Developer and Data Engineer with a passion for creating engaging gaming experiences and innovative data solutions. I have experience in software engineering and data engineering, and I excel in collaborative environments while continually seeking mentorship and opportunities for growth.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmahaja&label=Profile%20views&color=0e75b6&style=flat" alt="yashmahaja" /> </p>
