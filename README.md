@@ -1,5 +1,5 @@
 <!-- MasterHead -->
-![MasterHead](https://i.gifer.com/758a.gif)
+![MasterHead](https://github.com/yashmahaja/hackgif/blob/main/758a.gif)
 
 <!-- typing effect -->
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Yash+Prashant+Mahajan;A+Computer+Science+Graduate+Student;Welcome+to+my+Github+Profile!" alt="Typing SVG" /></h1>
