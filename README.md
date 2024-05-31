@@ -6,17 +6,16 @@
 
 <!-- About Me -->
 ## About Me
-I’m a Master’s student in Game Design and Development at RIT. I am an aspiring Game Developer and Data Engineer with a passion for creating engaging gaming experiences and innovative data solutions. I have experience in software engineering and data engineering, and I excel in collaborative environments while continually seeking mentorship and opportunities for growth.
+I’m a Master’s student in Computer Science at RIT. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmahaja&label=Profile%20views&color=0e75b6&style=flat" alt="yashmahaja" /> </p>
 
-- 🌱 I’m currently learning **Unreal, Unity VR, Data Structures and OpenGL**
+- 🌱 I’m currently learning ** Data Structures and OpenGL**
 
-- 👨‍💻 All of my projects are available at [https://portfoliourvashi.mystrikingly.com/](https://portfoliourvashi.mystrikingly.com/)
 
-- 💬 Ask me about **Data Engineering**
+- 💬 Ask me about **Software Engineering**
 
-- 📫 How to reach me **dhingraurvashi99@gmail.com**
+- 📫 How to reach me **yashmahajan0521@gmail.com**
 
 <!-- Connect -->
 ## Connect with me:
