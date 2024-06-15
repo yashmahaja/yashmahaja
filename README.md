@@ -10,7 +10,7 @@ I’m a Master’s student in Computer Science at RIT.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmahaja&label=Profile%20views&color=0e75b6&style=flat" alt="yashmahaja" /> </p>
 
-- 🌱 I’m currently learning ** Data Structures and OpenGL**
+- 🌱 I’m currently learning ** Spring Framework **
 
 
 - 💬 Ask me about **Software Engineering**
