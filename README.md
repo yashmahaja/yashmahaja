@@ -8,12 +8,12 @@
 ## About Me
 I am currently pursuing a Master of Science in Computer Science at the Rochester Institute of Technology. I specialize in creating mobile applications, focusing on Android platforms using Kotlin. My work involves building intuitive, responsive applications by utilizing the Android SDK and Jetpack Compose. 
 
-During my tenure at Nihilent, I developed Python scripts for an automated ETL workflow that utilized the Azure Form Recognizer API to process invoices. This initiative enhanced the extraction and transformation of data from invoices, improving both the speed and reliability of data handling. The implemented system efficiently managed a large volume of daily PDFs, significantly reducing processing time.
+During my tenure at Nihilent, I developed Python scripts for an automated ETL workflow that utilized the Azure Form Recognizer API to process invoices. This initiative enhanced the extraction and transformation of data from invoices, improving both the speed and reliability of data handling. The implemented system efficiently managed a large volume of daily PDFs, significantly reducing processing time. I excel in collaborative environments while continually seeking mentorship and opportunities for growth.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmahaja&label=Profile%20views&color=0e75b6&style=flat" alt="yashmahaja" /> </p>
 
-- 🌱 I’m currently learning ** Spring Framework **
+- 🌱 I’m currently learning **Spring Framework**
 
 
 - 💬 Ask me about **Software Engineering**
