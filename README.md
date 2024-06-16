@@ -1,12 +1,15 @@
 <!-- Banner -->
-<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY2MDM3MjIsIm5iZiI6MTcxNjYwMzQyMiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTI1VDAyMTcwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2OTczZjk0NDJmODU0MWZlYjVkZGUzNmViZmY0OTJiZTc3M2ZiYTFiNDVmYTAyODc3ZjBhNWRjMjIzYTI4ZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.n7l4XBnbt0Ts2qOZKJgde2FFQYHPsp7LfEfaV52i0Vw">
+<img src="https://github.com/urvashi1206/mariogif/blob/main/git.png">
 
 <!-- typing effect -->
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Yash+Prashant+Mahajan;A+Computer+Science+Graduate+Student;Welcome+to+my+Github+Profile!" alt="Typing SVG" /></h1>
 
 <!-- About Me -->
 ## About Me
-I’m a Master’s student in Computer Science at RIT. 
+I am currently pursuing a Master of Science in Computer Science at the Rochester Institute of Technology. I specialize in creating mobile applications, focusing on Android platforms using Kotlin. My work involves building intuitive, responsive applications by utilizing the Android SDK and Jetpack Compose. 
+
+During my tenure at Nihilent, I developed Python scripts for an automated ETL workflow that utilized the Azure Form Recognizer API to process invoices. This initiative enhanced the extraction and transformation of data from invoices, improving both the speed and reliability of data handling. The implemented system efficiently managed a large volume of daily PDFs, significantly reducing processing time.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmahaja&label=Profile%20views&color=0e75b6&style=flat" alt="yashmahaja" /> </p>
 
@@ -20,7 +23,7 @@ I’m a Master’s student in Computer Science at RIT.
 <!-- Connect -->
 ## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/urvashidhingra12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashmahaja" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/yashmahaja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashmahaja" height="30" width="30" /></a>
 <a href="https://discord.gg/_yashmahaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yashmahaja" height="30" width="40" /></a>
 <a href="https://x.com/yashmahaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashmahaja" height="30" width="30" /></a>
 </p>
