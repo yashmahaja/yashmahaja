@@ -16,8 +16,6 @@ Technical skills: Python, Java, React.js, Spring Boot, Node.js, MySQL, MongoDB, 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmahaja&label=Profile%20views&color=0e75b6&style=flat" alt="yashmahaja" /> </p>
 
-- 🌱 I’m currently learning **Spring Framework**
-
 
 - 💬 Ask me about **Software Engineering**
 
